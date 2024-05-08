@@ -6,6 +6,8 @@ on:
 
 env:
   # Use docker.io for Docker Hub if empty
+  IMAGE_NAME: sdytwrj/demo
+  IMAGE_TAGS: 1.0
   REGISTRY: ghcr.io
 
 jobs:
